@@ -38,7 +38,7 @@ Laboratorio de ciberseguridad orientado a practicar la monitorización de evento
 - Pruebas de detección y documentación de resultados.
 - Evidencias y procedimientos reproducibles.
 
-[→ Explorar el SOC Lab](URL_DE_TU_REPOSITORIO_SOC)
+[→ Explorar el SOC Lab](https://github.com/artur0-dev/soc-lab-wazuh)
 
 ---
 
@@ -87,20 +87,6 @@ Proyecto personal relacionado con el desarrollo y la seguridad de aplicaciones.
 - Administración de Sistemas Informáticos en Red (ASIR) — ThePower
 - Desarrollo de Aplicaciones Web (DAW) — Medac
 - Desarrollo de Aplicaciones Multiplataforma (DAM)
-
----
-
-## `github_activity/`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=artur0-dev&show_icons=true&hide_border=true&bg_color=07111c&title_color=00e5a8&icon_color=00e5a8&text_color=c9d1d9" alt="Estadísticas de GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur0-dev&layout=compact&hide_border=true&bg_color=07111c&title_color=00e5a8&text_color=c9d1d9" alt="Lenguajes más utilizados" />
-
-<img src="https://streak-stats.demolab.com?user=artur0-dev&hide_border=true&background=07111c&ring=00e5a8&fire=00e5a8&currStreakLabel=00e5a8&sideLabels=c9d1d9&dates=8492a6&currStreakNum=ffffff&sideNums=ffffff" alt="Actividad de GitHub" />
-
-</div>
 
 ---
 
